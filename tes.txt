@@ -1,0 +1,2 @@
+missing value ada di kolom ke-6
+change missing value to NaN, then impute the value with mean
